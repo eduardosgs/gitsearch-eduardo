@@ -1,0 +1,36 @@
+.containerNotFound {
+    width: 90%;
+    display: flex;
+    margin: 40px auto;
+    justify-content: space-between;
+}
+
+.containerNotFound h1 {
+    font-size: 1.5em
+}
+
+.containerHome {
+    width: 90%;
+    margin: 0 auto;
+    justify-content: center;
+    background-color: #fff;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: calc(10px + 2vmin);
+    color: black;
+}
+
+.nameRepos {
+    margin-bottom: 0.2em;
+    color: #ac53f2;
+}
+
+.descritionRepos {
+    margin-bottom: 0.2em;
+}
+
+.startRepos{
+    margin-bottom: 2em;
+}
